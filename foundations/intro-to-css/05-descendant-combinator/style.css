@@ -1,0 +1,7 @@
+div p { /* or div.container p  (children p with parents divs with class="container" */
+    background: yellow;
+    color:red;
+    font-size:20px;
+    text-align: center;
+}
+
